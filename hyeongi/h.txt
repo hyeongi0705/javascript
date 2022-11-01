@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main(void)
+{
+    int sen;
+    sen = 8;
+    printf("%d\n", sen);
+    sen++;
+    printf("%d\n", sen);
+    return(0);
+}
